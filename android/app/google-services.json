@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "923860656220",
+    "firebase_url": "https://smart-medical-box-47197-default-rtdb.firebaseio.com",
+    "project_id": "smart-medical-box-47197",
+    "storage_bucket": "smart-medical-box-47197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923860656220:android:686044c4812bad9f7d0699",
+        "android_client_info": {
+          "package_name": "com.example.medical_remainder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lhL-AhNx3zUynT5tGx4Sm7yM--P0FrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
